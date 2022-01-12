@@ -1,7 +1,3 @@
-My name is Hasin Raihan Shovon. I have completed my BSc in EEE from [SUST](https://www.sust.edu/d/eee) and MEng in IT from [IIT, University of Dhaka](http://www.iit.du.ac.bd/). My work interest lies in computer science mostly in low level like operating systems, compiler and processing unit but also interested about machine learning and software engineering. Love to keep myself updated with the latest technological milestones like natural language processing, quantum computing etc. Being an EEE graduate still exploring the computer science topics that are unknown to me. 
-
-
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
